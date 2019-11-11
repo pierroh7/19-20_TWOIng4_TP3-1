@@ -1,10 +1,8 @@
+Pierre Miroite - TP4 OCRES TD4
+
+
 # TP 3: Facebook ultra lite
 
-A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
-
-<p align="center">
- <a href="https://github.com/clementAC/Instructions-Technologies-Web-OCRES-Ing4/blob/master/README.md">Règles pour le semestre</a>
-</p>
 
 ## Instructions
 
